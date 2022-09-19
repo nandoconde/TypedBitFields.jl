@@ -1,0 +1,4 @@
+name = "TypedBitFields"
+uuid = "71096ee7-3492-4b36-8364-89af6fe48bd8"
+authors = ["fcpv "]
+version = "0.1.0"
